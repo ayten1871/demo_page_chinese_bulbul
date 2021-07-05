@@ -8,13 +8,6 @@ h1 {
   text-align: center;
   display: flex;
 }
-/*Colour Set*/
-/*
-red:#BB3640 
-black:#2F2728 
-pink:#F0C7CA 
-*/
-
 /*Font Set*/
 
 /*Navbar*/
@@ -31,16 +24,6 @@ pink:#F0C7CA
   font-size: 1.2rem;
   padding: 2rem;
 }
-/* .header-span > h1::after {
-  content: "11";
-  background-color: blue;
-  border-radius: 50%;
-  height: 3rem;
-  width: 3rem;
-  position: absolute;
-  left: 18%;
-  z-index: 2;
-} */
 /*logo*/
 .header-span-logo {
   display: inline-block;
@@ -174,7 +157,6 @@ h3 {
 }
 
 /*RWD*/
-/*break point 875*635*/
 @media (max-width: 875px) {
   .App,
   .article-div {
